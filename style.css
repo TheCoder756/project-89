@@ -1,0 +1,23 @@
+body
+{
+    background-color:#FFE6EE;
+    font-family: "Sofia", sans-serif;
+    text-align: center;
+}
+
+button
+{
+    radius: 40%;
+    border-radius: 5%; 
+    font-size: 20px;
+    background-color:rgb(2, 2, 2);
+    color:white;
+}
+
+label
+{
+    font-size: 23px;
+}
+
+
+
